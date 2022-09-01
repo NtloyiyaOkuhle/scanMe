@@ -13,5 +13,25 @@ Spipe 1.0
 TelSrv 1.5 
 WDaemon 6.8.5 
 WinGate 6.1.1
+Apple QuickTime 7.x
+Apple iTunes 12.x
+Adobe Reader X 10.x
+Oracle Java JRE 1.8.x/8.x
+Adobe Reader XI 11.x
+VLC Media Player 2.x
+Adobe Shockwave Player 12.x
+Mozilla Firefox 38.x
+Microsoft .NET Framework 3.x
+Microsoft .NET Framework 4.x
+CVE-2015-1635
+Microsoft Windows HTTP.sys
+CVE-2006-5794
+CVE-2014-3566
+CVE-2014-3567
+CVE-2014-3568
+CVE-1999-0170
+CVE-1999-0211
+CVE-1999-0554
+CVE-2009-2412
 Xitami 
 YahooPOPs! Simple Mail Transfer Service Ready
